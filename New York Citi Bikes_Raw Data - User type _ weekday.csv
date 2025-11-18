@@ -1,0 +1,12 @@
+COUNT of Bike ID,User Type,User Type,,,,
+Weekday,One-time user,Subscriber,SUM,% of SUM for One-Time,% of SUM for Subscriber,Difference
+Friday,26,2422,2448,8.20%,14.66%,-6.45%
+Monday,52,2474,2526,16.40%,14.97%,1.43%
+Saturday,93,1497,1590,29.34%,9.06%,20.28%
+Sunday,64,1501,1565,20.19%,9.08%,11.11%
+Thursday,19,2934,2953,5.99%,17.75%,-11.76%
+Tuesday,24,2436,2460,7.57%,14.74%,-7.17%
+Wednesday,39,3262,3301,12.30%,19.74%,-7.44%
+,,,,,,
+,,,,,,
+SUM,317,16526,,,,
